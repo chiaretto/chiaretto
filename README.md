@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-<!--
-**chiaretto/chiaretto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on Ritchie - http://ritchiecli.io/
+- 🌱 I’m currently learning GoLang, Unity
+- 👯 I’m looking to collaborate on Games Project
 
-Here are some ideas to get you started:
+💻 Software Engineer Technical Lead [@ZupIT](https://www.zup.com.br/) <br>
+🏡 Brazilian, Based in Uberlândia/MG. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌎 Find me around the web
+
+📫 https://medium.com/@chiaretto  <br>
+💼 https://www.linkedin.com/in/fabiano-chiaretto/ <br>
+🚀 https://github.com/chiaretto <br>
+
+

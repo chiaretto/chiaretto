@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning GoLang, Unity
 - 👯 I’m looking to collaborate on Games Project
 
-My name is Fabiano Chiaretto Fernandes. I work as a Tech Lead at Zup.
+My name is Fabiano Chiaretto Fernandes. 
 💻 Software Engineer Technical Lead [@ZupIT](https://www.zup.com.br/) <br>
 🏡 Brazilian, Based in Uberlândia/MG. 
 
